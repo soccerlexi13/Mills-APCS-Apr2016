@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=make\ year\ numDoors\ color
+comment0.target=Hatchback(java.lang.String,\ int,\ int,\ java.lang.String)
+numComments=1
